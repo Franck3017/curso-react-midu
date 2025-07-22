@@ -1,0 +1,20 @@
+{
+  "name": "curso-react-midu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franck3017/curso-react-midu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franck3017/curso-react-midu/issues"
+  },
+  "homepage": "https://github.com/Franck3017/curso-react-midu#readme"
+}
