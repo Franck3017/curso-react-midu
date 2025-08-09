@@ -1,0 +1,15 @@
+.toggle-button {
+  width: max-content;
+  background: transparent;
+  border: 2px solid #646cff;
+  border-radius: 4px;
+  color: #646cff;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.5em 1em;
+  transition: all 300ms;
+}
+.toggle-button:hover {
+  background: #646cff;
+  color: white;
+}
