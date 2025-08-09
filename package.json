@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Franck3017/curso-react-midu/issues"
   },
-  "homepage": "https://github.com/Franck3017/curso-react-midu#readme"
+  "homepage": "https://github.com/Franck3017/curso-react-midu#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
 }
