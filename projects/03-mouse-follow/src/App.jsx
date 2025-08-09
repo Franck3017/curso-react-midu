@@ -17,10 +17,27 @@ function App() {
       window.addEventListener('pointermove', handleMove)
     }
 
+    // Cleanup Method:
+    // -> Cuando el componente se desmonta
+    // -> Cuando cambian las dependencias, antes de ejecutar
+    // el efecto de nuevo
     return () => {
       window.removeEventListener('pointermove', handleMove)
       setPosition({ x: 0, y: 0 })
     }
+  },[enabled])
+
+  useEffect(() => {
+    console.log('change body className')
+    
+    if(enabled) {
+      document.body.classList.toggle('mouse-follow', enabled)
+    }
+
+    return () => {
+      document.body.classList.remove('mouse-follow')
+    }
+
   },[enabled])
   
   return (
