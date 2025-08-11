@@ -1,0 +1,390 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "id": 348,
+      "original_language": "en",
+      "original_title": "Alien",
+      "overview": "De regreso a la Tierra, la nave de carga Nostromo interrumpe su viaje y despierta a sus siete tripulantes. El ordenador central, MADRE, ha detectado la misteriosa transmisión de una forma de vida desconocida, procedente de un planeta cercano aparentemente deshabitado. La nave se dirige entonces al extraño planeta para investigar el origen de la comunicación.",
+      "popularity": 15.8793,
+      "poster_path": "/uuGKhdNWrZegCr2cYz7OFXiMzNo.jpg",
+      "release_date": "1979-05-25",
+      "title": "Alien, el octavo pasajero",
+      "video": false,
+      "vote_average": 8.164,
+      "vote_count": 15476
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878
+      ],
+      "id": 1187412,
+      "original_language": "ta",
+      "original_title": "Alien",
+      "overview": "how aliens might be in a country like India",
+      "popularity": 0.3373,
+      "poster_path": null,
+      "release_date": "",
+      "title": "Alien",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878
+      ],
+      "id": 817189,
+      "original_language": "en",
+      "original_title": "Alien",
+      "overview": "",
+      "popularity": 0.7286,
+      "poster_path": "/sI5eeqdoiZ62zv11WSMEev6Ynim.jpg",
+      "release_date": "2017-05-16",
+      "title": "Alien",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 881423,
+      "original_language": "en",
+      "original_title": "Alien",
+      "overview": "And from silence and darkness awakes - an all-moving, all-turning being. White, yellow and golden spindles in vigorous synchronised rotation. Twirling in shiny pirouettes in an old workshop full of nooks and crannies, they spin the big thread, sacrificing themselves. In the midst of the heat and noise of the historic machine souls a hunched old man is working, sometimes a cog, sometimes the conductor.",
+      "popularity": 0.3684,
+      "poster_path": null,
+      "release_date": "2017-10-06",
+      "title": "Alien",
+      "video": false,
+      "vote_average": 5.3,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vruRG9oFSC2QI3F6vLAsj1ND14S.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53,
+        27
+      ],
+      "id": 934194,
+      "original_language": "en",
+      "original_title": "Slash/Back",
+      "overview": "En una remota comunidad ártica, un grupo de chicas inuit luchan contra una invasión alienígena, mientras intentan llegar a la fiesta más genial de la ciudad.",
+      "popularity": 2.4918,
+      "poster_path": "/pX8MTrWjDCwFt0YVl5Ont7kJCLR.jpg",
+      "release_date": "2022-06-24",
+      "title": "Cazadoras de aliens",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 538467,
+      "original_language": "es",
+      "original_title": "Alien",
+      "overview": "Un trabajo documental que retrata los temas de la migración, los muros fronterizos y la restricción de la movilidad humana, desde el punto de vista de personas que, en apariencia, no estudian nada relacionado con tales acontecimientos: los astrónomos.",
+      "popularity": 0.3493,
+      "poster_path": "/kCnz4ZS2OHJ36908E3H8BqgQCzI.jpg",
+      "release_date": "2017-08-01",
+      "title": "Alien",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 1385032,
+      "original_language": "tl",
+      "original_title": "Alien",
+      "overview": "In a dystopian Philippines where people breathe through a bio-helmet, an oxygen concentrator that takes air from plants, a young man embarks on a journey for the promise of a better life.",
+      "popularity": 0.2237,
+      "poster_path": "/vRw0VBSnoef9nOMDTFEDBXGPKIq.jpg",
+      "release_date": "2023-12-06",
+      "title": "Alien",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9p29QBHdeeaZZeHbOVcKYb66M3s.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 258193,
+      "original_language": "en",
+      "original_title": "Alien Abduction",
+      "overview": "Una familia de vacaciones se encuentra con una amenaza alienígena en este thriller basado en el fenómeno real ocurrido en Brown Mountain Lights, en Carolina del Norte.",
+      "popularity": 1.488,
+      "poster_path": "/h4Ny82lizNTdTH2MFLjjyOVDWtk.jpg",
+      "release_date": "2014-04-04",
+      "title": "Abducción Alienígena",
+      "video": false,
+      "vote_average": 5.94,
+      "vote_count": 390
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        27,
+        878
+      ],
+      "id": 272108,
+      "original_language": "ja",
+      "original_title": "淫獣エイリアン",
+      "overview": "Toda la tripulación femenina de la nave de transporte Muse está en una misión en el espacio profundo. Recogen una señal de SOS y descubren un crucero espacial abandonado donde todas las mujeres han muerto misteriosamente. Se llevan al único sobreviviente, una joven llamada Flair, y detonan el barco fantasma. Sin embargo, el peligro apenas comienza. Con Flair on the Muse, los romances entre las mujeres comienzan a tomar un nuevo giro. Uno por uno, los tripulantes son atacados por una misteriosa presencia alienígena, desesperados por encontrar una manera de reproducirse con mujeres humanas.",
+      "popularity": 1.52,
+      "poster_path": "/dbxpznxnTpR5MCl0bdDRor7j4qK.jpg",
+      "release_date": "1997-01-24",
+      "title": "Injuu Alien",
+      "video": false,
+      "vote_average": 6.154,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qhzr6VAHd6WLtLpzqRwwxVZWY0m.jpg",
+      "genre_ids": [
+        16,
+        35,
+        878
+      ],
+      "id": 30863,
+      "original_language": "en",
+      "original_title": "Mutant Aliens",
+      "overview": "Un astronauta es enviado al espacio, pero una vez fuera de la órbita terrestre el pobre es traicionado por sus colegas que se han quedado en la Tierra, y lo abandonan en el espacio, liberando todo el combustible de la nave, con el objetivo de utilizar su tragedia interestelar para recaudar fondos destinados al Centro de Investigación Espacial. Vagando allí durante años, es rescatado por unos alienígenas...",
+      "popularity": 0.2945,
+      "poster_path": "/f6doYuJsaciPllLKy2VGWGLWXaV.jpg",
+      "release_date": "2002-06-14",
+      "title": "Alienígenas mutantes",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg",
+      "genre_ids": [
+        28,
+        53,
+        878
+      ],
+      "id": 679,
+      "original_language": "en",
+      "original_title": "Aliens",
+      "overview": "Alien es un organismo perfecto, una máquina de matar cuya superioridad física sólo puede competir con su agresividad. La oficial Ripley y la tripulación de la nave «Nostromo» se habían enfrentado, en el pasado, a esa monstruosa criatura. Y sólo Ripley sobrevivió a la masacre. Después de vagar por el espacio durante varios años, Ripley fue rescatada. Durante ese tiempo, el planeta de Alien ha sido colonizado. Pero, de repente, se pierde la comunicación con la colonia y, para investigar los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley. Allí les esperan miles de espeluznantes criaturas. Alien se ha reproducido y esta vez la lucha es por la supervivencia de la Humanidad.",
+      "popularity": 11.3395,
+      "poster_path": "/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg",
+      "release_date": "1986-07-18",
+      "title": "Aliens: El regreso",
+      "video": false,
+      "vote_average": 7.954,
+      "vote_count": 10232
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gTUTc5fJA3uW0qykMcLbYtBqWUF.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 104185,
+      "original_language": "en",
+      "original_title": "Alien Tornado",
+      "overview": "Un inusual tornado barrió un pueblo hace 15 años, dejando a Jack sin hogar y sin padres. Treinta años después, el extraño tornado vuelve acompañado de varios más, Jack, pedirá ayuda a un experto meteorólogo, llamado Gale Morgan, los cuales descubren que los tornados no son más que una tapadera para una invasión alienígena.",
+      "popularity": 0.97,
+      "poster_path": "/bCiOtKLJdYtjie64pO5925OC2vS.jpg",
+      "release_date": "2012-04-21",
+      "title": "Alien Tornado",
+      "video": false,
+      "vote_average": 3.8,
+      "vote_count": 52
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vGdbESoanztwuHj4IakL33xPBGo.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 70844,
+      "original_language": "en",
+      "original_title": "Superior Firepower: Making 'Aliens'",
+      "overview": "Este largometraje documental, hecho especialmente para el lanzamiento en DVD de Aliens (1986) de 2003, es increíblemente informativo con todas sus entrevistas tanto con el elenco como con el equipo, así como con escenas detrás de escena filmadas durante la realización de la película. Todos los elementos posibles de lo que se utilizó para hacer la película están incluidos aquí y les da a los fanáticos una sobrecarga de información para llenar sus cerebros.",
+      "popularity": 1.9443,
+      "poster_path": "/dQlfhe0d7wyniZfO8Sfnp5ooZ8q.jpg",
+      "release_date": "2003-12-02",
+      "title": "Superior Firepower: Making 'Aliens'",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5lwNNHlAo7561uSJ4xUsgNIw7Ta.jpg",
+      "genre_ids": [
+        878
+      ],
+      "id": 516237,
+      "original_language": "en",
+      "original_title": "Gray Matter",
+      "overview": "Desde 1940, los seres alienígenas conocidos como \"GRAYS\" han sido vistos en todo el mundo con la idea de que visitan nuestro planeta para estudiar nuestra especie y civilización antes de que finalmente ataquen ... ¿pero qué sucede si nos equivocamos? ¿Qué pasa si solo están aquí para protegernos?. Después de que un meteorito cayera a la tierra despertando a una criatura extraterrestre, una joven es secuestrada por un alienígena \"GRAY\" para ayudarla a cazar y destruir a la criatura antes de que pueda alcanzar un segundo meteorito que cayó a la tierra décadas antes, desencadenando su infestación mortal en la tierra.",
+      "popularity": 0.749,
+      "poster_path": "/wjbS3iUH21nd07sNIeGp7B80MKI.jpg",
+      "release_date": "2018-05-18",
+      "title": "Guerra de Alienígenas",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
+      "genre_ids": [
+        878,
+        28,
+        14,
+        12
+      ],
+      "id": 601796,
+      "original_language": "ko",
+      "original_title": "외계+인 1부",
+      "overview": "‎Los gurús de finales de la dinastía Goryeo intentan obtener una espada legendaria y sagrada, y los humanos en 2022 persiguen a un prisionero alienígena que está encerrado en el cuerpo de un humano. Las dos partes se cruzan cuando se abre un portal de viajes en el tiempo.‎",
+      "popularity": 7.3894,
+      "poster_path": "/dwh2pqqWobsOmnDFsJkiLRLBQ94.jpg",
+      "release_date": "2022-07-20",
+      "title": "Alienoid",
+      "video": false,
+      "vote_average": 6.831,
+      "vote_count": 483
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jXntuh47VtKLeoyBQ268rv24Igw.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53,
+        27
+      ],
+      "id": 440,
+      "original_language": "en",
+      "original_title": "Aliens vs Predator: Requiem",
+      "overview": "Cuando una nave exploradora Predator se estrella, aparece en un pueblo de Colorado. Los Aliens a bordo escapan y matan a todos los Predators excepto a uno. El último Predator superviviente debe ahora acabar con todos los Aliens, así como con el terrorífico Pred-Alien que fue engendrado en la anterior entrega. Mientras tanto, los habitantes del pueblo están siendo inutilmente atrapados en medio del último enfrentamiento entre estas dos criaturas míticas.",
+      "popularity": 7.9262,
+      "poster_path": "/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg",
+      "release_date": "2007-12-25",
+      "title": "Aliens vs. Predator 2",
+      "video": false,
+      "vote_average": 5.168,
+      "vote_count": 3084
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bpGyWU18xZFTx2fKBBm1um1EPqm.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        878
+      ],
+      "id": 15512,
+      "original_language": "en",
+      "original_title": "Monsters vs Aliens",
+      "overview": "Cuando la californiana Susan Murphy es golpeada accidentalmente por un meteorito lleno de mugre espacial en el día de su boda, crece misteriosamente hasta alcanzar más de 15 metros de altura. Los militares entran en acción y Susan es capturada y llevada a unas instalaciones gubernamentales secretas. Allí, la rebautizan como Genórmica y la retienen junto a un variopinto grupo de monstruos: el doctor Cucaracha, brillante pero con cabeza de insecto, el bravucón mitad mono mitad pez, el Eslabón Perdido, el gelatinoso e indestructible B.O.B., y la larva de más de 100 metros llamada Insectosaurio. Sin embargo, su confinamiento se acaba cuando un misterioso robot alienígena aterriza y empieza a arrasarlo todo. En un momento de desesperación, al Presidente le convencen de que reclute al abigarrado grupo de monstruos para luchar contra los alienígenas y salvar al mundo de la destrucción inminente.",
+      "popularity": 5.35,
+      "poster_path": "/pNRkYUevzL34QyeKRMe7MjvDj20.jpg",
+      "release_date": "2009-03-19",
+      "title": "Monstruos contra alienígenas",
+      "video": false,
+      "vote_average": 6.226,
+      "vote_count": 4771
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nU49MrYztN485EWn0IcHR9KX4x.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 19279,
+      "original_language": "en",
+      "original_title": "Alien Agent",
+      "overview": "Un guerrero imparable y maestro en las armas y combate cuerpo a cuerpo, tiene que defender a la tierra de una fuerza invasora. Pero tiene un secreto... él no es humano.",
+      "popularity": 0.98,
+      "poster_path": "/vdgI2z1waA5NFVtv373AhzPOKaF.jpg",
+      "release_date": "2007-07-17",
+      "title": "Agente Alien",
+      "video": false,
+      "vote_average": 4.268,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 8078,
+      "original_language": "en",
+      "original_title": "Alien Resurrection",
+      "overview": "Más de doscientos años después de su muerte, Ellen Ripley vuelve a la vida gracias al empleo de técnicas avanzadas de clonación. Pero, durante el proceso, el ADN de Ripley se ha mezclado con el de la Reina Alien, por lo que Ripley empieza a desarrollar ciertas características de la peligrosa alienígena.",
+      "popularity": 7.379,
+      "poster_path": "/6MLQ5ehGD3b8E0JZ9K2G4cZeFaI.jpg",
+      "release_date": "1997-11-12",
+      "title": "Alien: Resurrección",
+      "video": false,
+      "vote_average": 6.159,
+      "vote_count": 5225
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vmfOEwQMGllDQE7S9vzufOKwOdq.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 527014,
+      "original_language": "en",
+      "original_title": "Alien Psychosis",
+      "overview": "Ryan O'Neil, un veterano de guerra que sufre de trastorno de estrés postraumático después de ser herido en combate, regresa a casa con su esposa embarazada, Stephanie. Su hermano Tony, un policía corrupto, la ha estado ayudando mientras su esposo ha estado sirviendo al país. Ryan y Tony nunca se han querido mucho, y las cosas se calientan cuando Tony intenta involucrarse con su matrimonio. Pero cuando Ryan comienza a tener flashes y visiones de asesinos, extraterrestres y otros seres extraños por la noche en su casa, no está seguro de si es real o si solo está en su mente. Stephanie, que ya está nerviosa con Ryan, está profundamente preocupada por el comportamiento de su esposo. A medida que pasan los días, Ryan pronto descubrirá qué siniestra presencia lo ha perseguido en sus pesadillas.",
+      "popularity": 0.7892,
+      "poster_path": "/zBipFulQKHQTtwv18RKviUap72Z.jpg",
+      "release_date": "2018-02-24",
+      "title": "Alien Psychosis",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 8
+    }
+  ],
+  "total_pages": 61,
+  "total_results": 1220
+}
